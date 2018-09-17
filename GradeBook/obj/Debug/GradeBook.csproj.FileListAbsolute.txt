@@ -1,0 +1,7 @@
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\obj\Debug\GradeBook.csprojAssemblyReference.cache
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\obj\Debug\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook\obj\Debug\GradeBook.exe

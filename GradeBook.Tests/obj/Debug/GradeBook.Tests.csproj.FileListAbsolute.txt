@@ -1,0 +1,17 @@
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\GradeBook.Tests.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\GradeBook.Tests.pdb
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\obj\Debug\GradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\obj\Debug\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\obj\Debug\GradeBook.Tests.csproj.CopyComplete
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\obj\Debug\GradeBook.Tests.dll
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\obj\Debug\GradeBook.Tests.pdb
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\GradeBook.exe
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\GradeBook.pdb
+C:\Users\vijay\Documents\Pluralsight\C#\GradeBook\GradeBook.Tests\bin\Debug\GradeBook.exe.config
